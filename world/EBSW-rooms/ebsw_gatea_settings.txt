@@ -1,0 +1,13 @@
+Template: NONE
+WaveSpeed: 0.5469419
+WaveLength: 0.9488624
+WaveAmplitude: 0.004972548
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Palette: 18
+EffectColorA: 18
+Effects: PurityGate-0-610.9999-439-GatePos:660%02241-TargetWallPos:660%02680, SunBlock-1-30-30, SuperStructureProjector-0.01086957-303-109, ProjectedScanLines-1-34-104, LightBurn-0.25-344-48, 
+PlacedObjects: ElectricGateData><658.8943><557.8615><100~50~True~False~False~True~True~True~True~False~0~1~True~0~1~0.7934783, CommonGateData><669.8062><243.1919><100~50~False~False~False~False~False~False~False~False~0~1~1, ColoredSSFuses><220.1771><560.4363><100~50~6^3~FF0000~FF0000~0~0, ColoredSSFuses><222><771><121~-215~6^3~FF0000~FF0000~0~0, ColoredSSFuses><971><769><-419~-88~6^3~FF0000~FF0000~0~0, ColoredSSFuses><965><569><100~50~6^3~FF0000~FF0000~0~0, AdvancedLightSource><659.8188><675.8348><114~-413~FFA863~0~FFFFFF~0.7~1~FF0000~0.05~FF0000~LightSource~FFFF00~0.7~FF0000~0.6~277^114~0.7,1.2,2,1.5,50, PWLightrod><423.2078><126.9455><166.3205~104~0.6086956~0~286.5217~1~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0, PWLightrod><908><125><166.3205~104~0.6086956~0~286.5217~1~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0~1~0~0, FanLight><661.0322><265.5526><17.32051~-10~33~1~0~0~50~FanLightMask1~110~223~0~0, 
+AmbientSounds: OMNI><am_env-outside.ogg><769.0558><219.2022><0.5><1, OMNI><am_env-natwind.ogg><766.7368><297.1996><0.5><1, SPOT><am_ind-50hz.ogg><723.5735><507.814><0.5><1><650.5735><239.814><-177.3553><-16.35535><0><0.1, SPOT><so_sfx-data1.ogg><715.1304><232.9103><0.5><1><652.1304><240.9103><-179.3553><-25.35535><0><0.1, SPOT><so_sfx-datatrans2.ogg><727.9423><495.8051><0.3152174><1.9><650.9423><238.8051><-179.3553><-31.35535><0><0.1, SPOT><am_wat-shoreline.ogg><760.1817><307.562><0.5><1><1095.182><247.562><-631.3553><-11.35535><0><0.1, SPOT><am_wat-lakeside.ogg><730.8041><364.7096><0.5><1><1083.804><248.7096><-623.3553><-4.355347><0><0.1, SPOT><am_wat-sea01.ogg><723.3458><356.6273><0.5><1><1092.346><246.6273><-630.3553><-10.35535><0><0.1, 
+FadePalette: 10, 0.4021739

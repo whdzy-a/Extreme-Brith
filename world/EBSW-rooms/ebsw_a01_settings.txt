@@ -1,0 +1,8 @@
+Template: NONE
+Palette: 10
+EffectColorA: 0
+EffectColorB: 19
+Effects: SkyAndLightBloom-0.1195652-20-20, Darkness-0.4565217-636-437, Flies-0.2282609-22-74, Moth-0.1956522-22-133, Fog-1-314-24, 
+PlacedObjects: LightBeam><362.0554><67.54619><177~712~451~714~572~-39~-220~175~0.4~1~0~1~None~0~0, LightBeam><464.1342><114.5869><131~672~289~676~297~-63~-328~212~0.6934785~1~0~1~None~0~0, LinearGradientLightSource><575.4358><119.0739><100~50~FFFFFF~0.2~FFFFFF~0.4~20~FadeWithSun~1~LightSource~False~4~1.4~111^633, LightSource><323.6882><154.5677><0.09782609~White~79~192~50~86.60254~0~1~Flash~0.7608696~0, LightSource><322.6255><149.3435><0.2717391~White~40~155~93~-111.3975~1~0~Flash~0.7608696~0, KarmaFlower><585.4476><206.2806><0~0~5~7, CustomRedLight><232.6605><77.38074><-217~248~Defualt~1~FF0D0D~0~LightMask0~1~True~118^112, ParticleVisualCustomizer><577.9148><191.3633><100~50~FFFFFF~000000~000000~000000~34^184~Foreground~pixel~False~1~0~30~0~20~0~Basic~2~1, RectParticleSpawner><491.2><153.9996><-336~-50~311^595~111^562~50~40~80~0~80~0~80~0~31.30435~0.2~0.2~True, 
+AmbientSounds: OMNI><AM_ENV-Forest.ogg><767.7336><534.8007><0.3695652><1, OMNI><AM_ENV-LightWind.ogg><774.351><459.4226><0.3913043><1, OMNI><AM_ENV-LushNight.ogg><781.9498><403.4902><0.5><1, 
+FadePalette: 47, 1
