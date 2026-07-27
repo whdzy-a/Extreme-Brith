@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 10
+EffectColorA: 0
+EffectColorB: 19
+Effects: SkyAndLightBloom-0.1195652-20-20, Darkness-0.4565217-636-437, Flies-0.2282609-22-74, Moth-0.1956522-22-133, Fog-1-314-24, 
+AmbientSounds: OMNI><AM_ENV-Forest.ogg><767.7336><534.8007><0.3695652><1, OMNI><AM_ENV-LightWind.ogg><774.351><459.4226><0.3913043><1, OMNI><AM_ENV-LushNight.ogg><781.9498><403.4902><0.5><1, 
+FadePalette: 47, 1
