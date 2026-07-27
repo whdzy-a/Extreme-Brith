@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 {
   "id": "EB",
   "base": [ "EB", "Spear" ],
   "insert_after": "Spear"
 }
-=======
-{
-  "id": "EB",
-  "base": [ "EB", "Spear" ],
-  "insert_after": "Spear"
-}
->>>>>>> b1b56579493548ff625c00b68d94077c93f4ce14

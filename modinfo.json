@@ -4,13 +4,8 @@
 	"version": "0.1.0",
 	"authors": "Author",
 	"description": "A template for making SlugBase mods.",
-<<<<<<< HEAD
-	"requirements": [ "slime-cubed.slugbase","fisobs" ,"crs","regionkit"],
-	"requirements_names": [ "SlugBase","Fisobs","Custom Regions Support","RegionKit" ],
-=======
 	"requirements": [ "slime-cubed.slugbase","fisobs" ,"crs","regionkit","xuanzebufeng.modernfont","xuanzebufeng.randomcodestuff"],
 	"requirements_names": [ "SlugBase","Fisobs","Custom Regions Support","RegionKit","Modern Font","Random Code Stuff(RCS)"],
->>>>>>> b1b56579493548ff625c00b68d94077c93f4ce14
 	"priorities":["LavaandAsh"], 
 	"tags": [ "Custom Slugcat" ]
 }

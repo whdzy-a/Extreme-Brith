@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-Nexus Flow Forge|枢流锻层
-Lamplight in the Deep, Illuminating a Thousand Rails|深底燃灯照千轨
-=======
 Extreme_Brith-name|超凡脱俗
 
 Nexus Flow Forge|枢流锻层
 Lamplight in the Deep, Illuminating a Thousand Rails|深底燃灯照千轨
 
 Heavy Industrial District|重工业区
->>>>>>> b1b56579493548ff625c00b68d94077c93f4ce14

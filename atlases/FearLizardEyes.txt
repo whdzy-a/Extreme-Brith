@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {"frames": {
 
 "FearLizardEyes0":
@@ -45,51 +44,3 @@
 	"smartupdate": "$TexturePacker:SmartUpdate:68b58e5e40cac2b0542b57a0ad3afd4f:dca4ee46692c24ace7059b457b1589a0:a8179573b007acecc35a86e90aaed625$"
 }
 }
-=======
-{"frames": {
-
-"FearLizardEyes0":
-{
-	"frame": {"x":1,"y":1,"w":24,"h":40},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":40},
-	"sourceSize": {"w":24,"h":40}
-},
-"FearLizardEyes1":
-{
-	"frame": {"x":26,"y":1,"w":24,"h":40},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":40},
-	"sourceSize": {"w":24,"h":40}
-},
-"FearLizardEyes2":
-{
-	"frame": {"x":51,"y":1,"w":24,"h":40},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":40},
-	"sourceSize": {"w":24,"h":40}
-},
-"FearLizardEyes3":
-{
-	"frame": {"x":76,"y":1,"w":24,"h":40},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":40},
-	"sourceSize": {"w":24,"h":40}
-}
-
-},
-"meta": {
-	"app": "https://www.codeandweb.com/texturepacker",
-	"version": "1.0",
-	"image": "Kill_FearLizard.png",
-	"format": "RGBA8888",
-	"size": {"w":28,"h":18},
-	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:68b58e5e40cac2b0542b57a0ad3afd4f:dca4ee46692c24ace7059b457b1589a0:a8179573b007acecc35a86e90aaed625$"
-}
-}
->>>>>>> b1b56579493548ff625c00b68d94077c93f4ce14
