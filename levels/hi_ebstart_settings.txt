@@ -1,0 +1,7 @@
+Template: NONE
+RumbleIntensity: 1
+Grime: 0
+Palette: 678323
+Effects: SkyAndLightBloom-0.2282609-20-20, 
+PlacedObjects: LightSource><58.94632><735.0729><0.4021739~Environment~179~-120~5~-372.9191~1~1~None~0~0, LightSource><286><590><0.5760869~Environment~147~-48~5~-372.9191~1~1~None~0~0, LightBeam><228.5609><501.4055><-466~413~-159~417~243~0~-27~-242~0.6391303~0~1~1~None~0~0, ParticleVisualCustomizer><527.6966><295.7867><-228~-432.0103~FFFFFF~000000~FFFFFF~000000~163^59~Foreground~pixel~False~0~0~30~0~20~0~Basic~2~2, RectParticleSpawner><527.438><289.7767><398~-216~128^68~-114^130~50~40~80~0~80~0~800~0~5.869565~0.3~1~True, KarmaFlower><624.0582><293.6913><0~0~5~7, 
+FadePalette: 2, 0
