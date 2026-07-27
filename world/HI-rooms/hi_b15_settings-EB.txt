@@ -6,6 +6,10 @@ Palette: 678320
 EffectColorA: 19
 EffectColorB: 19
 Effects: SandStorm-1-322-28, SurfaceSandstorm-1-318-106, RGBElectricDeath-0-1033-433-Green:38.80435-Blue:0-Red:255, Fog-1-1038-370, BkgOnlyLightning-1-1049-307, SandPuffs-1-1058-187, HeatWave-0.5-1063-51, FireFlies-1-780-37, ExtraLoudThunder-1-779-238, ElectricDeath-1-786-154, IronStorm-0-517-360-IntensityFac:0.2934796-MaxParticleCount:1-SparkIntensity:10, 
+<<<<<<< HEAD
 PlacedObjects: CentipedeAttractor><1132.621><353.341><-381~151, InsectGroup><486.6992><144.7679><-98~23~-659~-96~Ant~1, CustomRedLight><148.1484><609.3277><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, CustomRedLight><1713.051><625.5131><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, FanLight><583.8031><319.8072><17.32051~-10~19~1~0~0~50~FanLightMask1~0~100~0~0, FanLight><1461.562><342.4317><17.32051~-10~90~1~0~0~50~FanLightMask1~0~100~0~0, 
+=======
+PlacedObjects: CentipedeAttractor><1132.621><353.341><-381~151, InsectGroup><486.6992><144.7679><-98~23~-659~-96~Ant~1, CustomRedLight><148.1484><609.3277><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, CustomRedLight><1713.051><625.5131><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, FanLight><583.8031><319.8072><17.32051~-10~19~1~0~0~8~FanLightMask1~15~261~0~0, FanLight><1461.562><342.4317><17.32051~-10~90~1~0~0~4~FanLightMask1~5~350~0~0, 
+>>>>>>> b1b56579493548ff625c00b68d94077c93f4ce14
 AmbientSounds: OMNI><AM_IND-Warehouse02.ogg><775.884><396.837><0.5434783><0.5891304, SPOT><SO_IND-HeatDuct.ogg><770.3654><276.6634><0.4347826><1><342.3654><214.6634><-75.35535><-36.35535><0><0.4260871, 
 FadePalette: 678320, 0.326087, 0.326087
