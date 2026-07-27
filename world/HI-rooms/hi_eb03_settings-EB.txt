@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Sandstorm
+Grime: 0.2173913
+Palette: 678320
+EffectColorA: 19
+EffectColorB: 19
+Effects: SandStorm-1-322-28, SurfaceSandstorm-1-318-106, RGBElectricDeath-0-1033-433-Green:38.80435-Blue:0-Red:255, Fog-1-1038-370, BkgOnlyLightning-1-1049-307, SandPuffs-1-1058-187, HeatWave-0.5-1063-51, FireFlies-1-780-37, ExtraLoudThunder-1-779-238, ElectricDeath-1-786-154, IronStorm-0-517-360-IntensityFac:0.2934796-MaxParticleCount:1-SparkIntensity:10, 
+PlacedObjects: FanLight><655.8994><467.5771><17.32051~-10~68~1~0~0~10~FanLightMask1~287~262~0~0, CustomRedLight><659.3661><569.1628><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, CustomRedLight><661.2119><374.9464><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, CustomRedLight><661.1121><178.6051><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, CustomRedLight><659.6071><767.5811><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, CustomRedLight><52.67371><169.0991><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, CustomRedLight><31.65436><698.8728><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, CustomRedLight><1270.338><163.383><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, CustomRedLight><1257.196><692.6925><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, 
+AmbientSounds: OMNI><AM_IND-Warehouse01.ogg><806.8074><416.3084><0.3478261><0.7652174, SPOT><Basic Mech.ogg><727.8119><163.0679><0.1847826><1.03913><480.8119><239.0679><-54.35535><-43.35535><0><0.3391306, 
+FadePalette: 678320, 0.3586957
