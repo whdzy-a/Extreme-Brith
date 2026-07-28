@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0
+RandomItemDensity: 0
+Palette: 28
+EffectColorA: 14
+EffectColorB: 14
+Effects: DayNight-1-20-20, 
+PlacedObjects: DayNightSettings><2644.313><384.9399><5~8.660254~3~10, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><757.4442><492.9522><0.5><1, OMNI><AM_ENV-LightWind.ogg><746.8036><520.5573><0.5><1, 
+FadePalette: 42, 0, 0, 0, 0, 0
+BackgroundOffset: 0,978.2606
+BackgroundType: atc_default_msc

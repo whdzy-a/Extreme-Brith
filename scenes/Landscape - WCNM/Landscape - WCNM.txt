@@ -1,0 +1,10 @@
+wcnm_landscape - 3 : 25 : LightEdges
+wcnm_landscape - 2 : 23
+wcnm_landscape - 1 : 20
+
+blurMin : -0.1
+blurMax : 0.4
+idleDepths : 11
+idleDepths : 6.5
+idleDepths : 4.8
+idleDepths : 8

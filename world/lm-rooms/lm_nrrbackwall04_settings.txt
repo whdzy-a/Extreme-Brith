@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Grime: 0
+Palette: 28
+EffectColorA: 13
+Effects: DayNight-0.4565217-20-20, 
+PlacedObjects: DayNightSettings><1006.196><508.2908><5~8.660254~31~33, LightSource><198.7116><366.0537><0.2282611~EffectColor1~0~100~-101~-200.3975~0~1~None~0~0, LightSource><335><362><0.2282611~EffectColor1~0~100~-101~-200.3975~0~1~None~0~0, LightSource><473><361><0.2282611~EffectColor1~0~100~-101~-200.3975~0~1~None~0~0, LightFixture><1211.651><410.6315><RedLight~17.32051~-10~8, LightFixture><1598.107><-39.58087><RedLight~17.32051~-10~18, LightFixture><914.5981><-31.57574><RedLight~17.32051~-10~9, LightFixture><2151.074><413.6541><RedLight~17.32051~-10~27, LightFixture><2312.8><-35.50665><RedLight~17.32051~-10~68, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><416.9497><481.7401><0.5><1, OMNI><AM_ENV-LightWind.ogg><429.6535><508.8783><0.5><1, 
+FadePalette: 8, 0.25, 0.2282609, 0.2717391

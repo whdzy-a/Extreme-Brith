@@ -1,0 +1,19 @@
+Template: NONE
+RainIntensity: 0.25
+RumbleIntensity: 0.25
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0
+RandomItemDensity: 0
+Palette: 28
+EffectColorA: 14
+EffectColorB: 14
+Effects: DayNight-1-20-20, 
+PlacedObjects: DayNightSettings><2644.313><384.9399><5~8.660254~3~10, LightSource><360.459><186.5542><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><845.0001><183><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><730><181><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><595><175><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><475><179><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><362><722><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><959><177><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><956><728><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><847.0001><733><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><727><722><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><594><728><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><481><727><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><359><1438><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><470><1446><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><590><1435><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><731><1442><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><844.0001><1441><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, LightSource><960><1440><0.3804348~EffectColor1~4~71~50~86.60254~0~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><757.4442><492.9522><0.5><1, OMNI><AM_ENV-LightWind.ogg><746.8036><520.5573><0.5><1, 
+FadePalette: 42, 0, 0
+BackgroundOffset: 0,978.2606
+BackgroundType: atc_default_msc
