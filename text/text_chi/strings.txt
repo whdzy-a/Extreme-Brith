@@ -1,6 +1,13 @@
-Extreme_Brith-name|超凡脱俗
-
+whdzy.ExtremeBrith-name|超凡脱俗|
+whdzy.ExtremeBrith-description|简介
 Nexus Flow Forge|枢流锻层
 Lamplight in the Deep, Illuminating a Thousand Rails|深底燃灯照千轨
-
 Heavy Industrial District|重工业区
+Outer Industrial Complex|外层工业区
+Hidden Mark|隐秘记号
+You need a drone to get through this door. Maybe there are clues around.|你需要一个无人机来通过此门，也许周围会有线索
+You feel that there is something near you.|你感觉有什么东西在你身边
+You feel that you are getting closer.|你感觉你更接近了
+Moon City|月城
+Lunar Crown Citadel|月冠城
+Steam-Power Plant|蒸汽发电厂
