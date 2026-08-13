@@ -1,4 +1,0 @@
-Palette: 678321
-Effects: SkyAndLightBloom-1-527-346, Darkness-0-30-30, 
-PlacedObjects: LightSource><590.9223><2303.566><0.5217391~Environment~351.0001~-164~442.0001~-196.3975~1~0~None~0~0, LightSource><601.3479><2301.88><0.2065217~Environment~339~-234~201~-368.3975~1~1~None~0~0, LightBeam><707.3943><1755.08><-223~579~-31~576~229~23~-333~107~0.3891303~1~0~1~None~0~0, 
-FadePalette: 10, 0.4021739, 0.5, 0.6086955

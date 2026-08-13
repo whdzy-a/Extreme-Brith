@@ -1,4 +1,0 @@
-EffectColorA: 12
-PlacedObjects: DayNightSettings><435.3766><289.5985><5~8.660254~33~10, LightFixture><225.0885><440.3125><RedLight~17.32051~-10~34, LightFixture><1011.089><716.3182><RedLight~17.32051~-10~16, LightFixture><930.8347><242.0709><RedLight~17.32051~-10~51, 
-AmbientSounds: OMNI><AM_WAT-Shoreline.ogg><765.6174><569.6619><0.5><1, OMNI><AM_ENV-Outside.ogg><720.4438><478.192><0.5><1, OMNI><AM_WIN-NiceWnd.ogg><728.5562><518.4508><0.75><1, OMNI><AM_WAT-Lakeside.ogg><754.9052><205.1761><0.5><1, 
-FadePalette: 33, 0

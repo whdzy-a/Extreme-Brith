@@ -1,6 +1,0 @@
-Template: lc_settingstemplate_inside
-Palette: 28
-EffectColorA: 13
-Effects: RepairedDroneForceAccessibleGate-0-837-356-RoomNameContains:LC-CurrentRegion:SL, SkyAndLightBloom-0.08695669-30-30, FairyParticles-0.2391306-20-20, DayNight-1-40-40, 
-PlacedObjects: DayNightSettings><339.1702><679.1833><5~8.660254~31~33, CommonGateData><665.6943><511.1921><100~50~False~False~False~False~False~False~False~False~0~1~1, NoSpearStickZone><664.9856><511.3005><58~224, FairyParticleSettings><392.3077><417.1949><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, 
-FadePalette: 10, 0.7282609

@@ -1,9 +1,0 @@
-[MERGE]
-Room_Attr: LC_NRRSUBWAY01: MirosBird-Stay,Overseer-Stay,Inspector-Forbidden,
-Room_Attr: LC_NRRSUBWAY02: MirosBird-Stay,Overseer-Stay,Inspector-Forbidden,
-Room_Attr: LC_NRRSUBWAY03: MirosBird-Stay,Overseer-Stay,Inspector-Forbidden,
-Room_Attr: LC_NRRSUBWAY04: MirosBird-Stay,Overseer-Stay,Inspector-Forbidden,
-Room_Attr: LC_mapbased: MirosBird-Forbidden,
-Room_Attr: LC_start: MirosBird-Forbidden,
-Room_Attr: LC_stripmall: MirosBird-Forbidden,
-[ENDMERGE]

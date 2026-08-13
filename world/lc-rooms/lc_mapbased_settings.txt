@@ -1,4 +1,0 @@
-PlacedObjects: DayNightSettings><354.1076><524.3314><5~8.660254~31~10, LanternOnStick><414.1132><552.8541><-42.00003~-181, LanternOnStick><435.1786><502.9368><22~-95, 
-AmbientSounds: OMNI><AM_ENV-Outside.ogg><724.1707><558.1836><0.5><1, SPOT><AM_WIN-HowlingWnd.ogg><752.9466><549.2131><0.5><1><996.9466><611.2131><-401.3553><-74.35535><0><0.1, SPOT><AM_WIN-HowlingWnd.ogg><748.0502><547.7398><0.5><1><1016.05><196.7398><-435.3553><34.64465><0><0.1, SPOT><AM_IND-50hz.ogg><733.1233><337.5952><0.5><1><231.1233><438.5952><-38.35535><-67.35535><0><0.1, 
-FadePalette: 42, 0
-BackgroundType: rf_lc_approx
