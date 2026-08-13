@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0
+RandomItemDensity: 0
+Palette: 28
+EffectColorA: 14
+EffectColorB: 14
+Effects: DayNight-1-20-20, 
+PlacedObjects: LightSource><589.6221><461.5963><0.3152174~EffectColor1~17~130~50~86.60254~0~1~None~0~0, LightSource><402><466><0.3152174~EffectColor1~17~130~50~86.60254~0~1~None~0~0, LightSource><787><459><0.3152174~EffectColor1~17~130~50~86.60254~0~1~None~0~0, LightSource><1428.823><459><0.3152174~EffectColor1~17~139~50~86.60254~0~1~None~0~0, LightSource><1626><463><0.3152174~EffectColor1~17~130~50~86.60254~0~1~None~0~0, LightSource><1831><465><0.3152174~EffectColor1~17~130~50~86.60254~0~1~None~0~0, LightSource><607><462.9977><0.3478261~EffectColor1~466~158~50~86.60254~0~0~None~0~0, LightSource><1633><462.0006><0.4347826~EffectColor1~466~158~50~86.60254~0~0~None~0~0, LightFixture><1242.801><647.4773><RedLight~17.32051~-10~99, LightFixture><1022.696><389.0391><RedLight~17.32051~-10~93, LightFixture><1169.585><387.6125><RedLight~17.32051~-10~63, LightFixture><1018.832><2.432632><RedLight~17.32051~-10~5, LightBeam><653.6991><300.0189><36~223~81.00003~225~117.0001~3~-70~-188.0003~0.5956527~1~0~0~None~0~0, LightBeam><291><264.0036><36~223~81.00003~225~117.0001~3~-70~-188.0003~0.5956527~1~0~0~None~0~0, LightBeam><1335><264.0003><36~223~81.00003~225~117.0001~3~-70~-188.0003~0.5956527~1~0~0~None~0~0, LightSource><352.3237><455.5966><0.7608696~White~34.99998~121~50~86.60254~0~1~None~0~0, LightSource><708.9999><494.9977><0.7608696~White~34.99998~121~50~86.60254~0~1~None~0~0, LightSource><1389><453.9993><0.7608696~White~34.99998~121~50~86.60254~0~1~None~0~0, DayNightSettings><2644.313><384.9399><5~8.660254~3~10, LightSource><562><448.0036><0.3586953~EffectColor1~669~99~50~86.60254~0~0~None~0~0, LightSource><1639><462.9972><0.3586953~EffectColor1~669~99~50~86.60254~0~0~None~0~0, LightSource><368><359.0069><0.6086953~White~206~37~50~86.60254~0~0~None~0~0, LightSource><709><380.0166><0.6086953~White~206~37~50~86.60254~0~0~None~0~0, LightSource><1401><332.0087><0.6086953~White~206~37~50~86.60254~0~0~None~0~0, CustomDecal><1375.55><146.7461><7~200~797.0001~218~787.0001~11~381.0001~92~0~1~0~greenpink~0.6086956~1~0.6086956~1~0.6086956~1~0.6086956~1, CustomDecal><2332><151><7~200~1258~214~1278~0~381.0001~92~0~1~0~rabbit~0.5326087~1~0.3369565~1~0.06521739~1~0.2826087~1, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><757.4442><492.9522><0.5><1, OMNI><AM_ENV-LightWind.ogg><746.8036><520.5573><0.5><1, 
+FadePalette: 42, 0, 0, 0, 0, 0
+BackgroundOffset: 0,978.2606
+BackgroundType: atc_default_msc

@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Palette: 28
+EffectColorA: 13
+Effects: RepairedDroneForceAccessibleGate-0-837-356-RoomNameContains:LC-CurrentRegion:LM, SkyAndLightBloom-0.08695669-30-30, FairyParticles-0.2391306-20-20, DayNight-1-40-40, 
+PlacedObjects: CommonGateData><671.826><505.435><100~50~False~False~False~False~False~False~False~False~0~1~1, LightSource><328.8981><507.8844><0.2608696~EffectColor1~2.999969~119~50~86.60254~0~1~None~0~0, LightSource><995><498><0.2608696~EffectColor1~2.999969~119~50~86.60254~0~1~None~0~0, DayNightSettings><443.0871><480.384><5~8.660254~31~33, NoSpearStickZone><664.5834><508.4318><103.9999~197, FairyParticleSettings><404.5903><418.1784><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, 
+FadePalette: 10, 0.6739131

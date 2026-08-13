@@ -1,0 +1,14 @@
+{
+	"id": "Slugcat_Recursion",
+	"scene_folder": "scenes/slugcat - Recursion",
+	"images": [
+		{ "name": "Background", "pos": [492, 100], "depth": 3, "shader": "Basic" },
+		{ "name": "Slugcat", "pos": [475,310], "depth": 2.4, "shader": "Basic" },
+		{ "name": "Frontground", "pos": [335, 150], "depth": 2.2, "shader": "Basic" }
+	],
+	"idle_depths": [ 2.8 ],
+	"glow_pos": [688, 484],
+	"mark_pos": [689, 583],
+	"select_menu_pos": [0, 0],
+	"slugcat_depth": 2.4
+}

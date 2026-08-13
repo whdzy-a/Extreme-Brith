@@ -1,0 +1,4 @@
+EffectColorA: 12
+PlacedObjects: DayNightSettings><95.20892><310.4457><5~8.660254~31~33, 
+FadePalette: 30, 0.4021741
+MorePalette0: 10, 0.5

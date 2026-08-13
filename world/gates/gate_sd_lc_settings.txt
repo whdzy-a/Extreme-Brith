@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Grime: 0
+Palette: 29
+EffectColorA: 8
+Effects: DayNight-1-90.39999-133.7778, FairyParticles-0.2086956-20-20, SandPuffs-1-276.0444-27.86667, RepairedDroneForceAccessibleGate-0-747-420-RoomNameContains:LC-CurrentRegion:SD, 
+PlacedObjects: LightSource><479.6567><239.6386><0.6057972~Environment~519.1111~-90.57779~-311.9556~97.2692~1~0~None~0~0, HangingPearls><758.7315><370.7552><, HangingPearls><798.5308><353.7047><, LightFixture><130.3283><242.355><HolyFire~17.32051~-10~56, FairyParticleSettings><162.424><-52.5105><-372.1828~-135.729~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, DayNightSettings><295.1196><93.76601><-355.5333~54.17133~10~33, HangingPearls><160.4026><349.8342><, LanternOnStick><830.1887><209.3403><16.35559~-54.31113, NoSpearStickZone><480.9426><239.6214><109.5646~225.2167, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><157.9369><496.86><0.4072461><1, OMNI><AM_ENV-LightWind.ogg><158.0169><423.6378><0.3067634><1, SPOT><SO_NAT-Fire.ogg><719.454><268.0767><0.4072465><1><129.9207><240.6323><-35.35534><-35.35534><0><0.1, 
+FadePalette: 10, 0.7574881

@@ -1,0 +1,10 @@
+Template: NONE
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.06521739
+Palette: 74
+EffectColorA: 12
+EffectColorB: 0
+Effects: DayNight-0.8043476-20-20, HeatWave-0.1086955-31-77, Moth-1-182-30, Bloom-1-345-64, LightBurn-0.3804348-80-125, Brightness-0.0326087-176-126, RepairedDroneForceAccessibleGate-1-637-358-RoomNameContains:WCNM-CurrentRegion:DM, 
+PlacedObjects: NoSpearStickZone><480.9382><248.0676><119.9999~231, CommonGateData><498.5518><252.7774><-422~118~False~True~True~True~False~False~False~True~0~0~1, ElectricGateData><488.6267><376.1548><100~50~False~False~False~True~True~True~True~False~0~1~False~0~1~0.5, RectanglePopupTrigger><268.5502><123.2591><100~50~You need a drone to get through this door. Maybe there are clues around.~0~10.48918~-1~1~False~True~-1~204.0001^369, DayNightSettings><127.2105><551.917><154.0393~-11.78265~33~10, LightSource><202.9322><544.1882><0.06521739~White~351~133~50~86.60254~1~1~None~0~0, LightSource><529.9999><623><0.06521739~White~351~133~50~86.60254~1~1~None~0~0, LightSource><310.9999><219><0.09782675~White~351~133~50~86.60254~1~1~None~0~0, LightSource><640.9999><231><0.1086956~White~351~133~50~86.60254~1~1~None~0~0, LightSource><164.9999><182><0.1086956~White~110~66~50~86.60254~1~1~None~0~0, LightSource><755.9999><220><0.1086956~White~110~66~50~86.60254~1~1~None~0~0, LightSource><425.9999><211><0.1086956~White~140~79~50~86.60254~1~1~None~0~0, 
+FadePalette: 42, 0

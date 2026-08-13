@@ -1,0 +1,5 @@
+[MERGE]
+Subregion: Outer Industrial Complex
+
+Room_Attr: HI_EB01: KingVulture-Forbidden,Vulture-Forbidden
+[ENDMERGE]

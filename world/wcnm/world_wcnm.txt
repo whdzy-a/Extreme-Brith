@@ -1,0 +1,38 @@
+ROOMS
+
+GATE_DM_WCNM : DISCONNECTED, WCNM_WILLSNAGGING01 : GATE
+WCNM_WILLSNAGGING01 : GATE_DM_WCNM, WCNM_s07, WCNM_aeriestart
+WCNM_aeriestart : WCNM_GATE, WCNM_WILLSNAGGING01
+WCNM_GATE : WCNM_aeriestart, WCNM_splitsewers
+WCNM_splitsewers : WCNM_bitteraerie1, WCNM_GATE, WCNM_bittervents, WCNM_startsewers, WCNM_pumps, WCNM_bitteraccess, DISCONNECTED, WCNM_scavtrader
+WCNM_bitteraccess : WCNM_bittervents, WCNM_splitsewers, WCNM_sewerbridge
+WCNM_bitteraerie1 : wcnm_bitteraerie4, WCNM_bitteraeriepipeu, WCNM_splitsewers
+WCNM_bitterpipe : WCNM_sewerbridge, WCNM_Jtrap, WCNM_sewerbrideAlt
+WCNM_bittervents : WCNM_splitsewers, WCNM_bitteraccess
+WCNM_Jtrap : WCNM_pumps, WCNM_bitterunderground, WCNM_bitterpipe
+WCNM_pumps : WCNM_bitterentrance, WCNM_splitsewers, WCNM_Jtrap
+WCNM_s07 : WCNM_WILLSNAGGING01 : SHELTER
+WCNM_scavtrader : WCNM_splitsewers : SCAVTRADER
+WCNM_sewerbrideAlt : WCNM_bitterpipe, WCNM_waterbottom
+WCNM_startsewers : WCNM_splitsewers
+WCNM_waterbottom : WCNM_sewerbrideAlt
+WCNM_bitteraerie4 : WCNM_bitteraerie5, DISCONNECTED, WCNM_bittermironest, WCNM_bitteraerie1
+WCNM_bitteraerie5 : WCNM_bitteraerie3, wcnm_bitteraerie4
+WCNM_bitteraerie2 : WCNM_bitteraerie3, WCNM_bittershelter, WCNM_bitterunderground
+WCNM_bitteraerie3 : WCNM_bitteraerie5, WCNM_bitteraerie2
+WCNM_bitteraerie6 : WCNM_COMMS, DISCONNECTED, WCNM_bitteraeriedown
+WCNM_bitteraeriedown : WCNM_bitteraerie6, WCNM_bitteredge
+WCNM_bitteraeriepipeu : WCNM_bitteraerie1, WCNM_bitterentrance
+WCNM_bitteredge : WCNM_bitteraeriedown, WCNM_bitterunderground, WCNM_bitterentrance, WCNM_bittersafe
+WCNM_bitterentrance : WCNM_bitteraeriepipeu, DISCONNECTED, WCNM_bitteredge, WCNM_bitterunderground, WCNM_pumps
+WCNM_bittermironest : wcnm_bitteraerie4
+WCNM_bittersafe : WCNM_bitteredge, WCNM_bitterstart, WCNM_S01
+WCNM_bittershelter : WCNM_bitteraerie2 : SHELTER
+WCNM_bitterstart : WCNM_bittersafe
+WCNM_bitterunderground : WCNM_bitteraerie2, WCNM_bitteredge, WCNM_Jtrap, WCNM_bitterentrance, DISCONNECTED
+WCNM_COMMS : WCNM_bitteraerie6
+WCNM_S01 : WCNM_bittersafe : SHELTER
+END ROOMS
+CREATURES
+
+END CREATURES

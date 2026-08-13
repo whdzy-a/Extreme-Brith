@@ -1,0 +1,7 @@
+Template: sh_settingstemplate_darksun
+DangerType: Rain
+Clouds: 0.423913
+Effects: LightBurn-0.4565217-16-20, FireFlies-0.1413043-19-83, 
+PlacedObjects: LightSource><742.9307><1312.083><0.02173912~Environment~1038~-380~358~-396.3975~1~1~None~0~0, TradeOutpost><737.5414><1316.804><331~4, LightSource><740.55><1312.996><0.2717391~Environment~-691~-374~50~86.60254~1~0~None~0~0, RoomPopupTrigger><672.1165><1367.838><100~50~You feel that you are getting closer.~0~11.77175~-1~1~False~True~1, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><855.8068><656.0518><0.423913><1, OMNI><AM_WIN-SubWnd.ogg><682.6971><654.5339><0.423913><1, OMNI><AM_RAIN-Rumbles.ogg><858.9675><581.5527><0.1521739><1, 
+FadePalette: 0, 0.173913, 0.173913
