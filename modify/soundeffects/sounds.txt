@@ -1,0 +1,8 @@
+[ADD]Hit_Machine : Hit_Machine_0/vol=1
+[ADD]Hit_Machine : Hit_Machine_1/vol=1
+[ADD]Hit_Machine : Hit_Machine_2/vol=1
+[ADD]Hit_Machine : Hit_Machine_3/vol=1
+
+[ADD]Rod_Switch : Rod_Switch_0/vol=1
+[ADD]Rod_Switch : Rod_Switch_1/vol=1
+[ADD]Rod_Switch : Rod_Switch_2/vol=1
