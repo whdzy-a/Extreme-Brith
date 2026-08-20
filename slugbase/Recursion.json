@@ -3,7 +3,7 @@
 	"name": "The Recursion",
 	"description": "成长，然后分裂！",
 	"features": {
-		"start_room": [ "HI_C05" ],
+		"start_room": [ "HI_EBSTART" ],
 		"custom_colors": [
 			{
 				"name": "Body",
