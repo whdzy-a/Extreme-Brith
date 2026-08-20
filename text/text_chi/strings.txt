@@ -11,3 +11,5 @@ You feel that you are getting closer.|你感觉你更接近了
 Moon City|月城
 Lunar Crown Citadel|月冠城
 Steam-Power Plant|蒸汽发电厂
+
+Greenery Bridge|覆植绿桥

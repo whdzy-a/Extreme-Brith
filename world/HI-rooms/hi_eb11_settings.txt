@@ -1,0 +1,16 @@
+Template: NONE
+RainIntensity: 0.108696
+RumbleIntensity: 0
+WaveSpeed: 0.5160475
+WaveLength: 0.9563096
+WaveAmplitude: 0.042755
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0
+Palette: 678323
+EffectColorA: 11
+EffectColorB: 18
+Effects: SkyAndLightBloom-0.2391304-20-20, DayNight-1-19-56, EmptyCircleRainTimer-1-40-40, ModifyDayNightEffectColor-0-823-253-ModifyNightEffectColorB:True-EffectB%01DAY:#FF0602-EffectB%01NIGHT:#130602-MinChangeAmount:0.01, NoRainForce-1-830-481, 
+PlacedObjects: DayNightSettings><416.5903><442.9284><5~8.660254~2~33, LightSource><1145.832><294.1417><1~Environment~-824~-37~50~86.60254~1~1~None~0~0, LightSource><1200><1093><1~Environment~-824~-37~50~86.60254~1~1~None~0~0, LightSource><1140><1874><1~Environment~-824~-37~50~86.60254~1~1~None~0~0, LightSource><1169><2300><1~Environment~-824~-37~50~86.60254~1~1~None~0~0, LightBeam><150.6072><869.6509><650.9999~1450~1186~1444~755~-8~-258~74~0.3130434~0~1~1~None~0~0, ColoredOESphere><433.7507><2313.55><329~4~FF8540~FF0000~5.869565~1~FF3D00~FF0000~166^-47~1~0.5, ColoredOESphere><437><28><329~4~FF8540~FF0000~5.869565~1~FF3D00~FF0000~166^-47~1~0.5, LightSource><633.2792><584.8021><0.4021741~EffectColor1~0~100~50~86.60254~0~1~None~0~0, LightSource><634><1206><0.4021741~EffectColor1~0~100~50~86.60254~0~1~None~0~0, LightSource><629><2058><0.4021741~EffectColor1~0~100~50~86.60254~0~1~None~0~0, LightSource><1143><448.8694><0.1521739~Environment~-816~-1~-394~126.6025~0~1~None~0~1, LightSource><1150><1176><0.1521739~Environment~-816~-1~-394~126.6025~0~1~None~0~1, LightSource><1165><1978><0.1521739~Environment~-816~-1~-394~126.6025~0~1~None~0~1, CustomRedLight><443.5618><2076.932><-436.0001~-70~1~1~24264C~0.1~LightMask0~1~True~82^88, CustomRedLight><442.9714><1872.698><100~50~1~1~24264C~0.1~LightMask0~1~True~82^88, CustomRedLight><443.054><1389.96><100~50~1~1~24264C~0.1~LightMask0~1~True~82^88, CustomRedLight><446.399><436.6165><100~50~1~1~24264C~0.1~LightMask0~1~True~82^88, CustomRedLight><447.3661><863.8514><100~50~1~1~24264C~0.1~LightMask0~1~True~82^88, 
+AmbientSounds: OMNI><am_env-windgrass.ogg><734.8705><161.6596><0.9782622><1, OMNI><am_env-forest.ogg><776.5878><327.117><1><1, OMNI><am_env-lightwind.ogg><723.3347><262.6374><0.5><1, OMNI><am_env-lushnight.ogg><724.1826><253.1883><0.5><1, OMNI><am_env-outside.ogg><758.5706><83.9117><1><1, OMNI><am_env-cricketswnd.ogg><709.5022><373.8><0.5><1, OMNI><am_env-citytone.ogg><723.7465><408.8><0.5><1, OMNI><am_env-woods.ogg><767.1936><532.6998><0.5><1, OMNI><am_env-wintertrees.ogg><731.6135><549.1038><0.5><1, OMNI><am_env-winterhum.ogg><733.4238><561.1509><0.5><1, SPOT><am_env-lightwind.ogg><752.6663><534.4316><1><1><1049.666><205.4316><-402.3553><-18.35535><0><0.1, SPOT><am_env-lightwind.ogg><722.7217><532.948><1><1><1198.722><761.948><-505.3553><-50.35535><0><0.1, SPOT><am_env-lightwind.ogg><723.5445><539.3051><1><1><1071.544><1492.305><-520.3553><23.64465><0><0.1, SPOT><am_env-lightwind.ogg><723.5278><535.5519><1><1><1009.528><2171.552><-421.3553><-25.35535><0><0.1, 
+FadePalette: 2, 0, 0, 0

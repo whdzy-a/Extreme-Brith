@@ -1,0 +1,22 @@
+
+Creature - Pink - dens:7,5,6 - chance:1.0
+Creature - Pink - dens:8,5,6 - chance:1.0
+Creature - Pink - dens:7,5,6 - chance:1.0
+Creature - White - dens:6,5 - chance:1.0
+Creature - White - dens:6,5 - chance:1.0
+
+CreatureGroup - SCAVS - symbol:A1
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:0.5 - group:SCAVS
+
+Creature - Blue - dens:5,6,7,8 - chance:1 - amount:2
+Creature - Cicada - dens:5,6 - chance:1 - amount:2
+
+Creature - RedLizard - dens:5,6 - chance:0.1 - amount:1
+
+Creature - SpitLizard - dens:5,6 - chance:1 - amount:1
+Creature - SpitLizard - dens:5,6,8 - chance:0.8 - amount:1
+Creature - SpitLizard - dens:5,6,7 - chance:0.3 - amount:1
