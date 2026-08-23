@@ -1,0 +1,17 @@
+Creature - Pink - dens:2,3 - chance:1.0
+Creature - White - dens:2,3 - chance:0.2
+
+CreatureGroup - SCAVS - symbol:A1
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:0.5 - group:SCAVS
+
+Creature - Blue - dens:2,3 - chance:1 - amount:2
+
+Creature - RedLizard - dens:2,3 - chance:0.1 - amount:1
+
+Creature - LightAlgeaLizard - dens:2,3 - chance:1 - amount:1
+Creature - LightAlgeaLizard - dens:2,3 - chance:0.8 - amount:1
+Creature - LightAlgeaLizard - dens:2,3 - chance:0.3 - amount:1
