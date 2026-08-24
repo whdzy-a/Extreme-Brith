@@ -1,0 +1,16 @@
+Template: NONE
+RainIntensity: 0.108696
+RumbleIntensity: 0
+WaveSpeed: 0.5160475
+WaveLength: 0.9563096
+WaveAmplitude: 0.042755
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0
+Palette: 678323
+EffectColorA: 11
+EffectColorB: 18
+Effects: DayNight-1-19-56, CustomSkyAndLightBloom-0-937-477-LightBloomIntensity:0.8-SkyBloomRadius:0.002%020.002-SkyBloomIntensity:0.2, 
+PlacedObjects: DayNightSettings><416.5903><442.9284><5~8.660254~2~33, LightSource><839.5674><629.5816><0.4239137~Environment~520~61~-161~-195.3975~1~1~None~0~0, LightSource><1537><537><0.4239137~Environment~178~11~-161~-195.3975~1~1~None~0~0, LightSource><1546><710><0.4239137~Environment~178~11~-161~-195.3975~1~1~None~0~0, LightSource><2160><703><0.4239137~Environment~178~11~-161~-195.3975~1~1~None~0~0, LightSource><553.1956><272.9583><0.2826087~EffectColor1~2~86~50~86.60254~0~1~None~0~0, LightSource><549><629.0084><0.2826087~EffectColor1~2~86~50~86.60254~0~1~None~0~0, LightSource><551><188.0022><0.2826087~EffectColor1~2~86~50~86.60254~0~1~None~0~0, DangleFruit><828.7478><488.95><0~0~2~3, DangleFruit><779.5743><503.8455><0~0~2~3, DangleFruit><2179.316><580.6534><0~0~2~3, DangleFruit><1483.058><543.3846><0~0~2~3, DangleFruit><2110.953><578.0557><0~0~2~3, DangleFruit><2788.949><526.0216><0~0~2~3, DangleFruit><2711.947><537.0326><0~0~2~3, ColoredOESphere><376.4466><79.53671><100~50~FF8540~FF0000~5.543478~1~FF3D00~FF0000~111^103~1~0.2, ColoredOESphere><1275><21.00578><100~50~FF8540~FF0000~5.869565~1~FF3D00~FF0000~138^130~1~0.3, ColoredOESphere><2419><20><100~50~FF8540~FF0000~5.543478~1~FF3D00~FF0000~159^139~1~0.3, 
+AmbientSounds: OMNI><am_env-windgrass.ogg><734.8705><161.6596><0.5><1, OMNI><am_env-forest.ogg><716.5878><280.117><0.5><1, OMNI><am_env-lightwind.ogg><723.3347><262.6374><0.5><1, OMNI><am_env-lushnight.ogg><724.1826><253.1883><0.5><1, OMNI><am_env-outside.ogg><734.5706><219.9117><0.5><1, OMNI><am_env-cricketswnd.ogg><720.5022><297.8><0.5><1, OMNI><am_env-citytone.ogg><734.7465><309.8><0.5><1, OMNI><am_env-woods.ogg><767.1936><532.6998><0.5><1, OMNI><am_env-wintertrees.ogg><731.6135><549.1038><0.5><1, OMNI><am_env-winterhum.ogg><733.4238><561.1509><0.5><1, SPOT><am_env-lightwind.ogg><730.1348><448.1635><0.5><1><830.1348><606.1635><-263.3553><-44.35535><0><0.1, SPOT><am_env-lightwind.ogg><726.4648><444.4469><0.5><1><2173.465><714.447><-35.35534><-35.35534><0><0.1, SPOT><am_env-lightwind.ogg><726.46><444.446><0.5><1><1538.46><689.446><-35.35534><-35.35534><0><0.1, SPOT><am_env-lightwind.ogg><746.9167><446.6105><0.5><1><3269.917><639.6105><-325.3555><-53.35535><0><0.1, 
+FadePalette: 2, 0, 0, 0

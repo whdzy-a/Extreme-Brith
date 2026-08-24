@@ -1,0 +1,2 @@
+Template: NONE
+PlacedObjects: ConveyorBelt><698.1573><390.6265><-497~-90~-90~3~False~0~100~SingleConveyorBelt~29~6,6~100~390, CustomFan><892.8591><389.1676><-365.0001~-246~0.0008~0~0~assets/machine/ConveyorBeltCog~0.2~Default~1~5~5, CustomFan><507><389><-369.0001~-401~0.0008~0~0~assets/machine/ConveyorBeltCog~0.2~Default~1~5~5, 
