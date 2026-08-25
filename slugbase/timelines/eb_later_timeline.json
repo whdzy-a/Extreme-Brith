@@ -1,0 +1,5 @@
+{
+  "id": "EBLater",
+  "base": [ "EBLater", "EB" ],
+  "insert_after": "EB"
+}
