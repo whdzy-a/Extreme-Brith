@@ -8,7 +8,7 @@ SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Grime: 0
 Palette: 678323
-EffectColorA: 11
+EffectColorA: 21
 EffectColorB: 18
 Effects: DayNight-1-19-56, EmptyCircleRainTimer-1-18-118, ModifyDayNightEffectColor-0-823-253-ModifyNightEffectColorB:True-EffectB%01DAY:#FF0602-EffectB%01NIGHT:#130602-MinChangeAmount:0.01, NoRainForce-1-830-481, CustomSkyAndLightBloom-0-152-35-SkyBloomIntensity:0.5-LightBloomIntensity:0.6-SkyBloomRadius:0.003%020.003, 
 PlacedObjects: DayNightSettings><416.5903><442.9284><5~8.660254~2~33, 
