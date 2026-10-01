@@ -1,0 +1,7 @@
+Clouds: 0.1956522
+BkgDroneVolume: 0.2469565
+Palette: 678331
+EffectColorA: 0
+EffectColorB: 2
+Effects: LightRain-1-372-449, SKLightning-1,0.05652187,0.3065219-360-195, Lightning-0.6195652-353-287, BkgOnlyLightning-0.4673913-359-342, SunBlock-1-365-388, RGBElectricDeath-0-844-295-Green:218.9674-Blue:255-Red:197.3482, ZeroGSpecks-1-354-134, GreenSparks-0.02173913-344-65, 
+FadePalette: 678329, 0, 0
