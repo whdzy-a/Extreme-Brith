@@ -1,7 +1,0 @@
-DangerType: Sandstorm
-Palette: 678320
-EffectColorA: 19
-EffectColorB: 19
-Effects: SandStorm-1-322-28, SurfaceSandstorm-1-318-106, RGBElectricDeath-0-1033-433-Green:38.80435-Blue:0-Red:255, Fog-1-1038-370, BkgOnlyLightning-1-1049-307, SandPuffs-1-1058-187, HeatWave-0.5-1063-51, FireFlies-1-780-37, ExtraLoudThunder-1-779-238, ElectricDeath-1-786-154, IronStorm-0-517-360-IntensityFac:0.2934796-MaxParticleCount:1-SparkIntensity:10, 
-PlacedObjects: FanLight><370.7545><369.2><17.32051~-10~92~1~0~0~50~FanLightMask1~0~100~0~0, 
-FadePalette: 678320, 0.1956522
