@@ -1,0 +1,16 @@
+Template: NONE
+RainIntensity: 0.108696
+RumbleIntensity: 0
+WaveSpeed: 0.5160475
+WaveLength: 0.9563096
+WaveAmplitude: 0.042755
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0
+Palette: 678323
+EffectColorA: 11
+EffectColorB: 18
+Effects: DayNight-1-19-56, EmptyCircleRainTimer-1-319-16, ModifyDayNightEffectColor-0-823-253-ModifyNightEffectColorB:True-EffectB%01DAY:#FF0602-EffectB%01NIGHT:#130602-MinChangeAmount:0.01, NoRainForce-1-830-481, CustomSkyAndLightBloom-0-302.9999-185-LightBloomIntensity:1-SkyBloomIntensity:0.3, 
+PlacedObjects: DayNightSettings><416.5903><442.9284><5~8.660254~2~33, OEsphere><335.2828><278.4473><5~56~50~86.60254~6~1, OEsphere><1865><344.0079><5~56~50~86.60254~6~1, OEsphere><2778><287><5~56~50~86.60254~6~1, OEsphere><1719><710><5~56~50~86.60254~6~1, OEsphere><1351><309><5~56~50~86.60254~21~1, OEsphere><1237><416><52.99998~61~50~86.60254~30~1, OEsphere><2555><315><5~56~50~86.60254~15~1, OEsphere><2955><317><29~58~50~86.60254~15~1, OEsphere><1196><138.9732><5~56~50~86.60254~6~1, Vine><754.6942><577.5477><253~58, Vine><146.3025><621.5316><-69~-180, Vine><143.6809><623.4149><205~63, Vine><248.4863><212.6995><-104~412, Vine><670><491><85~86, Vine><754><576><-93~59, Vine><1232><131><-52.00006~234, Vine><1042><314><140.9999~52, Vine><1183><364><-97.00006~208, Vine><1180><363><517.9999~167, Vine><1695><529><57.99988~149, Vine><2431><554><124.9999~46, Vine><2609><150><-180.0001~407, Vine><1788><503><-95.00006~28, Vine><1547><282><142.9999~246, Vine><2752><513><203.9999~36, Vine><3071><151><-114.0001~399, Vine><2958><546><-161.0001~138, Vine><3395><488><-225.0001~113, Vine><3181><269><-11.00012~334, 
+AmbientSounds: OMNI><am_env-windgrass.ogg><734.8705><161.6596><1><1, OMNI><am_env-forest.ogg><792.5878><326.117><1><1, OMNI><am_env-lightwind.ogg><723.3347><262.6374><0.5><1, OMNI><am_env-lushnight.ogg><718.1826><102.1883><1><1, OMNI><am_env-outside.ogg><734.5706><219.9117><1><1, OMNI><am_env-cricketswnd.ogg><710.5022><340.8><1><1, OMNI><am_env-citytone.ogg><702.7465><444.8><1><1, OMNI><am_env-woods.ogg><767.1936><532.6998><0.5><1, OMNI><am_env-wintertrees.ogg><731.6135><549.1038><1><1, OMNI><am_env-winterhum.ogg><721.4238><619.1509><1><1, 
+FadePalette: 2, 0, 0, 0

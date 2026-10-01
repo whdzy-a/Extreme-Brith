@@ -1,0 +1,16 @@
+Template: NONE
+RainIntensity: 0.108696
+RumbleIntensity: 0
+WaveSpeed: 0.5160475
+WaveLength: 0.9563096
+WaveAmplitude: 0.042755
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0
+Palette: 678323
+EffectColorA: 11
+EffectColorB: 18
+Effects: SkyAndLightBloom-0.2500003-25-21, DayNight-1-19-56, EmptyCircleRainTimer-1-270-228, ModifyDayNightEffectColor-0-823-253-ModifyNightEffectColorB:True-EffectB%01DAY:#FF0602-EffectB%01NIGHT:#130602-MinChangeAmount:0.01, NoRainForce-1-830-481, Darkness-0.07608695-286-21, 
+PlacedObjects: DayNightSettings><416.5903><442.9284><5~8.660254~2~33, LightSource><240.8373><1885.884><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><82.00002><1843><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><139><1865><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><146><1392><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><83><1430><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><81.00002><968><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><145><929><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><264><970><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><204><1435><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><245><1383><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><162><460.9999><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><106><504.919><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><229><511><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, LightSource><287><488><0.3913041~EffectColor1~7~58~50~86.60254~0~1~None~0~0, Vine><682.7205><434.4478><200~193, Vine><226.9474><143.2188><72~140, Vine><411.9427><30.31995><-112~247, Vine><297.6735><282.0652><140~249, Vine><296.5579><278.194><385~159, Vine><1263.7><639.501><-209~31, Vine><883.6437><628.3608><175~43, Vine><438.4276><531.3136><-112~24, Vine><807.0107><215.9497><75.00006~408, Vine><1153.148><378.8848><-96~289, Vine><751.8051><216.7053><-66~220, Vine><681.9089><437.8715><-240~94, Vine><328.0685><822.3341><198~223, Vine><440.8655><537.8519><-111~283, Vine><325.803><824.7152><-116~53, Vine><523.8><1046.75><-192~-43, Vine><522.8021><1048.721><-86~382, Vine><437.0682><1426.417><160~433, Vine><438.1971><1431.693><-128~28, Vine><153.4305><1942.563><194~321, Vine><597.5558><1859.942><-257~68, Vine><598.2356><1855.551><-250~408, OEsphere><985.3466><352.8717><-17~53~-248~124.6025~6~1, OEsphere><348.6923><1540.945><6~56~123~-150.3975~6~1, OEsphere><573.0926><1599.874><2~53~-439.0001~218.6025~15~1, 
+AmbientSounds: OMNI><am_env-windgrass.ogg><734.8705><161.6596><1><1, OMNI><am_env-forest.ogg><792.5878><326.117><1><1, OMNI><am_env-lightwind.ogg><723.3347><262.6374><0.5><1, OMNI><am_env-lushnight.ogg><718.1826><102.1883><1><1, OMNI><am_env-outside.ogg><734.5706><219.9117><1><1, OMNI><am_env-cricketswnd.ogg><710.5022><340.8><1><1, OMNI><am_env-citytone.ogg><702.7465><444.8><1><1, OMNI><am_env-woods.ogg><767.1936><532.6998><0.5><1, OMNI><am_env-wintertrees.ogg><731.6135><549.1038><1><1, OMNI><am_env-winterhum.ogg><721.4238><619.1509><1><1, 
+FadePalette: 2, 0, 0, 0
