@@ -1,0 +1,13 @@
+Template: hi_settingstemplate_inside
+DangerType: Rain
+Clouds: 0.04347826
+Grime: 0.2717391
+BkgDroneVolume: 0.2469565
+Palette: 678331
+EffectColorA: 11
+EffectColorB: 14
+Effects: LightRain-1-372-449, SKLightning-1,0.05652187,0.3065219-360-195, Lightning-0.6195652-353-287, BkgOnlyLightning-0.4673913-359-342, SunBlock-1-365-388, RGBElectricDeath-0-844-295-Green:218.9674-Blue:255-Red:197.3482, ZeroGSpecks-1-354-134, GreenSparks-0.02173913-344-65, 
+PlacedObjects: DangleFruit><915.1986><109.2261><-10~122~2~3, DangleFruit><869.0513><104.9773><0~0~2~3, DangleFruit><817.6378><120.855><0~0~2~3, CustomDecal><-272.4999><-194.5><-75.99999~742~1124~727~1189~23~-106~77~0.3218337~0.6413156~0~runningwhite~0.6522335~1~0.467451~1~0.2174508~1~0.4842643~1, CustomDecal><334.7501><-155.25><-75.99999~742~1124~727~1189~23~-106~77~0.3218337~0.6413156~0~runningwhite~0.6522335~1~0.467451~1~0.2174508~1~0.4842643~1, CustomDecal><-125.75><-195><-75.99999~742~1321~751~1312~2~33.00333~232.9965~0~0.3152891~0~runningwhite~0.5434789~1~0.467387~1~0.3106406~1~0.4237739~1, EBRPlacedSign><495.159><507.0908><-468~-221.0002~10~0~EffectColorB~0.5~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><245.2497><244.7507><-468~-221.0002~10~0~EffectColorB~0.5~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><868.7618><123.4174><-468~-221.0002~10~20.21739~EffectColorA~0~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><156.0002><103.9998><-276.0003~55.99873~10~17.6288~EffectColorA~0~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><684.0001><246><-468~-221.0002~10~0~EffectColorB~0.5~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><531.0001><247><-468~-221.0002~10~0~EffectColorB~0.5~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, 
+AmbientSounds: SPOT><SO_IND-HeatDuct.ogg><755.5559><336.9518><0.4130435><1><517.5559><243.9518><-35.35534><-35.35534><0><0.2847827, SPOT><SO_IND-HeatDuct.ogg><154.1091><471.0824><0.2717391><0.9217392><252.1091><252.0824><-35.35534><-35.35534><0><0.3173913, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>RW_43 - Bio Engineering<eA>vol<eB>0.2456519<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>10<eA>rest<eB>5<eA>fadeIn<eB>130.4348<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>15<tA>delay<tB>0<tA>panPos<tB>757.9584<tB>510.9456<tA>fireChance<tB>0.5<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>391.9584<tB>110.9456<tA>handlePos<tB>-140.3553<tB>-38.35535, 
+FadePalette: 678329, 0.2173913

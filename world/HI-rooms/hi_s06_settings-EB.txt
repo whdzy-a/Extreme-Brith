@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Rain
+Grime: 0.3043478
+Palette: 678331
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><831.9324><644.0821><0.3043478><0.7847826, 
+FadePalette: 678329, 0.5108696
+Effects: LightRain-1-372-449, SKLightning-1,0.05652187,0.3065219-360-195, Lightning-0.6195652-353-287, BkgOnlyLightning-0.4673913-359-342, SunBlock-1-365-388, RGBElectricDeath-0-844-295-Green:218.9674-Blue:255-Red:197.3482, ZeroGSpecks-1-354-134, GreenSparks-0.02173913-344-65, 
+EffectColorA: 11
+EffectColorB: 14

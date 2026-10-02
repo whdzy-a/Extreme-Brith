@@ -1,0 +1,11 @@
+Template: hi_settingstemplate_inside
+DangerType: Rain
+Grime: 0.4130435
+BkgDroneVolume: 0.2469565
+Palette: 678331
+EffectColorA: 11
+EffectColorB: 14
+Effects: LightRain-1-372-449, SKLightning-1,0.05652187,0.3065219-360-195, Lightning-0.6195652-353-287, BkgOnlyLightning-0.4673913-359-342, SunBlock-1-365-388, RGBElectricDeath-0-844-295-Green:218.9674-Blue:255-Red:197.3482, ZeroGSpecks-1-354-134, GreenSparks-0.02173913-344-65, 
+PlacedObjects: LightSource><473.0585><658.1921><0.6739131~Environment~70~-113~-243~-204.3975~1~0~None~0~0, ProjectedImagePosition><867.1711><624.1035><, InsectGroup><662.7996><584.6937><17~-175~0~0~Moth~0.5, CustomDecal><-132.2112><263.6263><-75.99999~742~1321~751~1312~2~33.00333~232.9965~0~0.3152891~0~runningwhite~0.5434789~1~0.467387~1~0.3106406~1~0.4237739~1, CustomDecal><-54.74994><118.75><-75.99999~742~1124~727~1189~23~-106~77~0.3218337~0.6413156~0~runningwhite~0.6522335~1~0.467451~1~0.2174508~1~0.4842643~1, CustomDecal><-26.49988><165.75><-75.99999~742~1124~727~1189~23~-106~77~0.6086956~1~0~runningwhite~0.3586955~1~0.2499992~1~0.06502599~1~0.2378729~1, EBRPlacedSign><208.7498><697.7493><-468~-221.0002~10~0~EffectColorB~0.5~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><895.7278><499.699><-468~-221.0002~10~0~EffectColorB~0.5~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><392.4999><590.5><-468~-221.0002~10~0~EffectColorB~0.5~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><261.4995><608.7459><-468~-221.0002~10~19.56522~EffectColorA~0.5~0~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><763.9998><602><-468~-221.0002~10~19.56522~EffectColorA~0.5~0~False~0.6~4~100~200~44^41~True~True~0~1,1~Default~1~Arabic, 
+Triggers: Spot<tA>event<tB>ShowProjectedImageEvent<eA>afterEncounter<eB>0<eA>fromCycle<eB>0<eA>onlyWhenShowingDirection<eB>1<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>260<tA>panPos<tB>439.8189<tB>208.8123<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>486.8189<tB>585.8123<tA>handlePos<tB>-149.3553<tB>-63.35535, 
+FadePalette: 678329, 0.3043478

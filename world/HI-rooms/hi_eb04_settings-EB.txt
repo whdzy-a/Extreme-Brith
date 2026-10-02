@@ -1,10 +1,10 @@
 Template: NONE
-DangerType: Sandstorm
+DangerType: Rain
 Grime: 0.2173913
-Palette: 678320
-EffectColorA: 19
-EffectColorB: 19
-Effects: SandStorm-1-322-28, SurfaceSandstorm-1-318-106, RGBElectricDeath-0-1033-433-Green:38.80435-Blue:0-Red:255, Fog-1-1038-370, BkgOnlyLightning-1-1049-307, SandPuffs-1-1058-187, HeatWave-0.5-1063-51, FireFlies-1-780-37, ExtraLoudThunder-1-779-238, ElectricDeath-1-786-154, IronStorm-0-517-360-IntensityFac:0.2934796-MaxParticleCount:1-SparkIntensity:10, 
-PlacedObjects: FanLight><659.4365><295.0721><21.3205~-302~13~1~0~0~19~FanLightMask1~3~157~0~0, CustomRedLight><32.80206><303.5287><91~-268~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, CustomRedLight><559.1913><589.6918><100~50~Defualt~1~FF0D0D~0~LightMask0~1~True~100^100, CustomRedLight><411.2772><580.9481><100~50~Defualt~1~FF0D0D~0~LightMask0~1~True~100^100, CustomRedLight><700.9127><577.1337><100~50~Defualt~1~FF0D0D~0~LightMask0~1~True~100^100, CustomRedLight><826.092><658.9276><100~50~Defualt~1~FF0D0D~1~LightMask0~1~True~100^100, LightSource><915.0543><358.7089><0.2934779~EffectColor1~1~66~50~86.60254~0~1~None~0~0, LightSource><923><261><0.2934779~EffectColor1~1~66~50~86.60254~0~1~None~0~0, ReliableSpear><919.5715><194.8402><, ReliableSpear><471.8576><198.5814><, ReliableSpear><400.706><194.9451><, 
+Palette: 678331
+EffectColorA: 11
+EffectColorB: 14
+Effects: LightRain-1-372-449, SKLightning-1,0.05652187,0.3065219-360-195, Lightning-0.6195652-353-287, BkgOnlyLightning-0.4673913-359-342, SunBlock-1-365-388, RGBElectricDeath-0-844-295-Green:218.9674-Blue:255-Red:197.3482, ZeroGSpecks-1-354-134, GreenSparks-0.02173913-344-65, 
+PlacedObjects: CustomDecal><-36.75002><-53><-75.99999~742~1321~751~1312~2~33.00333~232.9965~0~0.3152891~0~runningwhite~0.5434789~1~0.467387~1~0.3106406~1~0.4237739~1, CustomDecal><80.50001><-65.75><-75.99999~742~1124~727~1189~23~-106~77~0.3218337~0.6413156~0~runningwhite~0.6522335~1~0.467451~1~0.2174508~1~0.4842643~1, CustomDecal><211.1367><6.530143><-75.99999~742~1124~727~1189~23~-106~77~0.6086956~1~0~runningwhite~0.3586955~1~0.2499992~1~0.06502599~1~0.2378729~1, EBRPlacedSign><122.7442><405.9928><-468~-221.0002~10~0~EffectColorB~0.5~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><307.75><399><-468~-221.0002~10~0~EffectColorB~0.5~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><213.75><401.0003><-468~-221.0002~10~0~EffectColorB~0.5~2~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><716.9998><291.506><-468~-221.0002~10~10.1087~EffectColorA~0.5~0~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, EBRPlacedSign><483.9998><296.5017><-468~-221.0002~10~10.1087~EffectColorA~0.5~0~False~0.6~4~100~200~26^34~True~True~0~1,1~Default~1~Arabic, 
 AmbientSounds: OMNI><AM_IND-Warehouse01.ogg><806.8074><416.3084><0.3478261><0.7652174, SPOT><Basic Mech.ogg><727.8119><163.0679><0.1847826><1.03913><480.8119><239.0679><-54.35535><-43.35535><0><0.3391306, 
-FadePalette: 678320, 0.3586957
+FadePalette: 678320, 0
