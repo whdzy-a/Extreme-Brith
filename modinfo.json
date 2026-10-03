@@ -4,8 +4,8 @@
 	"version": "0.1.0",
 	"authors": "Author",
 	"description": "A template for making SlugBase mods.",
-	"requirements": [ "slime-cubed.slugbase","fisobs" ,"crs","regionkit","xuanzebufeng.modernfont","xuanzebufeng.randomcodestuff","improved-input-config"],
-	"requirements_names": [ "SlugBase","Fisobs","Custom Regions Support","RegionKit","Modern Font","Random Code Stuff(RCS)","Improved Input Config: Extended"],
+	"requirements": [ "slime-cubed.slugbase","fisobs" ,"crs","regionkit","xuanzebufeng.modernfont","xuanzebufeng.randomcodestuff","improved-input-config","LavaandAsh", "floodwaters_utilities_mini"],
+	"requirements_names": [ "SlugBase","Fisobs","Custom Regions Support","RegionKit","Modern Font","Random Code Stuff(RCS)","Improved Input Config: Extended","Lava and Ash", "Floodwaters Utilities Mini"],
 	"priorities":["LavaandAsh"], 
 	"tags": [ "Custom Slugcat" ]
 }
