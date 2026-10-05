@@ -4,6 +4,6 @@ BkgDroneVolume: 0
 Palette: 678331
 AmbientSounds: SPOT><Basic Mech.ogg><720.6788><158.4104><0.1956522><1><472.6788><460.4104><-41.35535><-46.35535><0><0.4478262, 
 FadePalette: 678329, 0.2391304
-Effects: ReplaceEffectColorB-0-860-509-Color-1-0.08695652-0.326087, ReplaceEffectColorA-0-590.9999-503-Color-0.2608696-1-0.8369558, CustomDepthRain-0-850.0001-50-RainSize:0.1-Depth:30, LightRain-1-372-449, SKLightning-1,0.05652187,0.3065219-360-195, Lightning-0.6195652-353-287, BkgOnlyLightning-0.4673913-359-342, SunBlock-1-365-388, RGBElectricDeath-0-844-295-Green:218.9674-Blue:255-Red:197.3482, ZeroGSpecks-1-354-134, GreenSparks-0.02173913-344-65, 
+Effects: ReplaceEffectColorB-0-860-509-Color-1-0.08695652-0.326087, ReplaceEffectColorA-0-590.9999-503-Color-0.2608696-1-0.8369558, CustomDepthRain-0-850.0001-50-RainSize:0.1-Depth:30, LightRain-1-372-449, SKLightning-1,0.05652187,0.3065219-360-195, Lightning-0.6195652-353-287, BkgOnlyLightning-0.4673913-359-342, SunBlock-1-365-388, RGBElectricDeath-0-844-295-Green:218.9674-Blue:255-Red:197.3482, GreenSparks-0.02173913-344-65, 
 EffectColorA: 11
 EffectColorB: 14
