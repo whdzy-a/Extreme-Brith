@@ -1,0 +1,20 @@
+{"frames": {
+
+"Kill_Arcfly.png":
+{
+	"frame": {"x":0,"y":0,"w":31,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":15},
+	"sourceSize": {"w":31,"h":15}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Kill_Arcfly.png",
+	"format": "RGBA8888",
+	"size": {"w":31,"h":15},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:26989409cdf0e89bb3e466ae59a312fc:f99b9c3750551731313002c194a3e872:68f111719e2751a80948e1729ea7a6fa$"
+}
+}
